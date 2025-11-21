@@ -1,0 +1,5 @@
+income_level,spending_group,user_count,default_users,default_rate
+0-5k,6000+,12,6,0.5
+10k-20k,0Ԫ,1,1,1
+10k-20k,6000+,10,8,0.8
+20k+,6000+,9,7,0.7778
